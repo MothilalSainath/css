@@ -1,0 +1,102 @@
+.sidebar {
+  margin: 15px;
+  min-height: 200px;
+
+  text-align: center;
+}
+.sidebar img {
+  height: 200px;
+  width: 210px;
+  border-radius: 50%;
+}
+.mainbar {
+  background-color: rgb(43, 226, 186);
+  min-height: 200px;
+  margin: 15px;
+  text-align: center;
+  text-align: left;
+  margin: 10px;
+  padding: 10px;
+  color: white;
+}
+.mainbar h3 {
+  text-decoration-line: underline;
+}
+.sidebar1 {
+  height: 250px;
+  width: 210px;
+
+  text-align: left;
+  margin: 10px;
+  padding: 10px;
+}
+i {
+  color: rgb(43, 226, 186);
+}
+.mainbar1 {
+  float: left;
+  margin: 15px;
+  padding: 9px;
+  color: rgb(43, 226, 186);
+  width: 800px;
+}
+.mainbar1 p ul li {
+  list-style-type: square;
+}
+.sidebar2 {
+  
+  height: 260px;
+  
+}
+.sidebar2 ul li{
+  padding: 20px;
+  list-style-type: none;
+  float: left;
+}
+
+.hr1 {
+  background-color: rgb(9, 9, 22);
+  width: 200px;
+  border-radius: 12px;
+  float: left;
+
+}
+.hr2{
+   background-color: rgb(7, 7, 14);
+  width: 200px;
+  border-radius: 12px;
+  float: left;
+}
+.hr2 .horizontal-line{
+  background-color: rgb(43, 226, 186);
+  width: 120px;
+}
+.hr3{
+   background-color: rgb(11, 11, 20);
+  width: 200px;
+  border-radius: 12px;
+  float: left;
+
+}
+.hr3 .horizontal-line{
+  background-color: rgb(43, 226, 186);
+  width:  70px;
+}
+
+table,
+th,
+td {
+  background-color: rgb(43, 226, 186);
+  border: 2px solid black;
+  height: 40px;
+  width: 840px;
+  padding: 10px;
+  text-align: center;
+}
+
+.horizontal-line {
+  background-color: rgb(43, 226, 186);
+  width: 180px;
+  height: 10px;
+  border-radius: 10px
+}

@@ -1,0 +1,30 @@
+   table th, td{
+    border: 2px solid gray;
+    border-radius: 20px;
+
+    
+    padding: 10px;
+  
+    
+}
+table,tr{
+  width: 90%;
+  margin: 20px;
+  text-align: center;
+  padding: 12px;
+  
+
+  
+
+}
+tr:nth-child(even){
+  background-color: brown;
+
+}
+th{
+  background-color: black;
+  color: aliceblue;
+}
+th:hover{
+  background: cornflowerblue;
+}
